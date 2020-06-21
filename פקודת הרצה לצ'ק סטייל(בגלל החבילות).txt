@@ -1,0 +1,1 @@
+java -jar checkstyle-5.7-all.jar -c biuoop.xml src/*.java src/collections/*.java src/gameobjects/*.java src/gaming/*.java src/gaming/levels/directhit/*.java src/gaming/levels/finalfour/*.java src/gaming/levels/green/*.java src/gaming/levels/wideeasy/*.java src/geometric/*.java src/gameinterfaces/*.java
